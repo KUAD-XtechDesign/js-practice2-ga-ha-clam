@@ -84,3 +84,7 @@ h1{
   font-weight: bold;
   color: #fff;
 }
+
+.full{
+  background: linear-gradient(#0f0,#faa)
+}
